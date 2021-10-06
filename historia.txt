@@ -1,9 +1,7 @@
 Hola, este es el curso de git and github
 
-Dennis Leandro Muñoz Muñoz de 23 años, ecuatoriano y esta siguiendo este curso.
+Dennis Leandro Muñoz Muñoz de 23 aós esta siguiendo este curso
 
 Hoy empezaremos la practica inicial.
 
-Nuevos cambios en su vida.
-
-Nuevas metas por cumplir.
+Mañana seguiremos completamente en el curso
